@@ -10,4 +10,4 @@ company-data repository is company entity.
 ipo-detail repository is Ipo detail entity.
 Sector repository is a Sector entity.
 stock-exchange repository is a stock exchange entity.
-service-discovery repository to use feign clie
+service-discovery repository to use feign client
